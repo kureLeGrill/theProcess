@@ -1,0 +1,50 @@
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\C#\!!!Process\EMProcess\EMProcess\bin\Windows\x86\Debug\EMProcess.exe
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\C#\!!!Process\EMProcess\EMProcess\bin\Windows\x86\Debug\EMProcess.pdb
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\C#\!!!Process\EMProcess\EMProcess\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\C#\!!!Process\EMProcess\EMProcess\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\C#\!!!Process\EMProcess\EMProcess\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\C#\!!!Process\EMProcess\EMProcess\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\C#\!!!Process\EMProcess\EMProcess\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\C#\!!!Process\EMProcess\EMProcess\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\C#\!!!Process\EMProcess\EMProcess\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\C#\!!!Process\EMProcess\EMProcess\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\C#\!!!Process\EMProcess\EMProcess\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\C#\!!!Process\EMProcess\EMProcess\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\C#\!!!Process\EMProcess\EMProcess\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\C#\!!!Process\EMProcess\EMProcess\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\C#\!!!Process\EMProcess\EMProcess\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\C#\!!!Process\EMProcess\EMProcess\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\C#\!!!Process\EMProcess\EMProcess\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\C#\!!!Process\EMProcess\EMProcess\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\C#\!!!Process\EMProcess\EMProcess\obj\x86\Debug\EMProcess.csprojResolveAssemblyReference.cache
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\C#\!!!Process\EMProcess\EMProcess\obj\x86\Debug\EMProcess.exe
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\C#\!!!Process\EMProcess\EMProcess\obj\x86\Debug\EMProcess.pdb
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\C#\!!!Process\EMProcess\EMProcess\bin\Windows\x86\Debug\Content\MenuButtons\Exit_mk2.xnb
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\C#\!!!Process\EMProcess\EMProcess\bin\Windows\x86\Debug\Content\MenuButtons\Option_mk2.xnb
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\C#\!!!Process\EMProcess\EMProcess\bin\Windows\x86\Debug\Content\MenuButtons\Start_mk2.xnb
+C:\Users\Dell\dev\TheProcess\EMProcess\EMProcess\bin\Windows\x86\Debug\Content\MenuButtons\Exit_mk2.xnb
+C:\Users\Dell\dev\TheProcess\EMProcess\EMProcess\bin\Windows\x86\Debug\Content\MenuButtons\Option_mk2.xnb
+C:\Users\Dell\dev\TheProcess\EMProcess\EMProcess\bin\Windows\x86\Debug\Content\MenuButtons\Start_mk2.xnb
+C:\Users\Dell\dev\TheProcess\EMProcess\EMProcess\bin\Windows\x86\Debug\EMProcess.exe
+C:\Users\Dell\dev\TheProcess\EMProcess\EMProcess\bin\Windows\x86\Debug\EMProcess.pdb
+C:\Users\Dell\dev\TheProcess\EMProcess\EMProcess\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Dell\dev\TheProcess\EMProcess\EMProcess\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Dell\dev\TheProcess\EMProcess\EMProcess\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Dell\dev\TheProcess\EMProcess\EMProcess\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Dell\dev\TheProcess\EMProcess\EMProcess\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Dell\dev\TheProcess\EMProcess\EMProcess\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Dell\dev\TheProcess\EMProcess\EMProcess\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Dell\dev\TheProcess\EMProcess\EMProcess\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Dell\dev\TheProcess\EMProcess\EMProcess\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Dell\dev\TheProcess\EMProcess\EMProcess\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Dell\dev\TheProcess\EMProcess\EMProcess\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Dell\dev\TheProcess\EMProcess\EMProcess\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Dell\dev\TheProcess\EMProcess\EMProcess\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Dell\dev\TheProcess\EMProcess\EMProcess\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Dell\dev\TheProcess\EMProcess\EMProcess\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Dell\dev\TheProcess\EMProcess\EMProcess\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Dell\dev\TheProcess\EMProcess\EMProcess\obj\x86\Debug\EMProcess.csprojAssemblyReference.cache
+C:\Users\Dell\dev\TheProcess\EMProcess\EMProcess\obj\x86\Debug\EMProcess.csproj.CoreCompileInputs.cache
+C:\Users\Dell\dev\TheProcess\EMProcess\EMProcess\obj\x86\Debug\EMProcess.csproj.CopyComplete
+C:\Users\Dell\dev\TheProcess\EMProcess\EMProcess\obj\x86\Debug\EMProcess.exe
+C:\Users\Dell\dev\TheProcess\EMProcess\EMProcess\obj\x86\Debug\EMProcess.pdb
